@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @israelepic
-- 👀 I’m a Devops and Product Manager
+- 👀 I’m a Startup Co-Founder, Devops Engineer and Product Manager
 - 🌱 I’m currently into blockchain use cases in Agriculture. Also into Devops using, Kubernetes, 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects in supply chain,Finacial Inclusion, Productivity and Agriculture
 - 📫 Let's work on your product together
 
 
