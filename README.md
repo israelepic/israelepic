@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @israelepic
 - 👀 I’m a Startup Co-Founder, Devops Engineer and Product Manager
-- 🌱 I’m currently into blockchain use cases in Agriculture. Also into Devops using, Kubernetes, 
-- 💞️ I’m looking to collaborate on projects in supply chain,Finacial Inclusion, Productivity and Agriculture
-- 📫 Let's work on your product together
-
+- 🌱 I’m into decentralised risk management and finance with use cases in Agriculture, insurance and finance.
+- 💞️ I’m looking to collaborate with Insurers, Financial instituions and DFIs to derisk portfolios deploy capital.
+- 📫 Scaling Tecn enabled infrastructure for African communities
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=israelepic&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
